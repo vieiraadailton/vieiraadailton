@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adailton Vieira</h1>
+<h1 align="center">Hey 👋, I'm Adailton Vieira</h1>
+<p>Atualmente em transicão de carreira da área logística para migrar para o desenvolvimento fullstack, buscando transformar o mundo pela tecnologia, técnico em Desenvolvimento de Sistemas pela ETEC JK, bem-vindo ao meu perfil.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adailton-vieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adailton-vieira" height="30" width="40" /></a>
